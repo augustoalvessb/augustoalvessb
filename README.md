@@ -2,6 +2,7 @@
 
 - 🔭 Buscando oportunidades
 - 🌱 Estudando front-end
+- 📖 Aprendendo JavaScript
 
 <div align="center">
   <a href="https://github.com/augustoalvessb">

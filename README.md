@@ -1,8 +1,8 @@
 ### Salve! Eu sou Augusto!
 
 - 🔭 Buscando oportunidades
-- 🌱 Estudando Back-end
-- 📖 Aprendendo Java
+- 🌱 Desenvolvedor Front-end
+- 📖 Estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/augustoalvessb">
